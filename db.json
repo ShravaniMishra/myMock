@@ -12,5 +12,13 @@
         {"username" : "Jane", "content" : "Good One"}, 
         {"username" : "Bob", "content" : "Loved It!"}]
     }
+  ],
+  "users":[
+    {
+      "Username":"Shravani Mishra",
+      "Avatar":"https://cdn.pixabay.com/photo/2014/04/02/17/07/user-307993__340.png",
+      "Email":"Shravniguddi@gmail.com",
+      "Password":"1234"
+    }
   ]
 }
